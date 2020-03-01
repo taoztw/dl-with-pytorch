@@ -1,5 +1,5 @@
 # dl-with-pytorch
-使用pytoch实现简单神经网络，序列模型，ResNet18,leNet5,VAE,GAN
+使用pytoch实现简单 神经网络，序列模型，ResNet18,leNet5,VAE,GAN
 
 
 代码使用的数据集MNIST cifar10 
